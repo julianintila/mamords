@@ -54,7 +54,7 @@ var swiper = new Swiper(".action-slider", {
 
 
 var swiper = new Swiper(".child-slider", {
-    slidesPerView: 4,
+    slidesPerView: 4,   
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
